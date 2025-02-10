@@ -3,8 +3,6 @@
 
 <code><img height="200px" src="assets/istockphoto-1086997658-612x612.jpg"></code>
 
-<span>Photo by <a href="https://unsplash.com/@thomasbormans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Bormans</a> on <a href="https://unsplash.com/s/photos/old-books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 
 Hello! 😁 My Name is Catherine Paris. 
 
