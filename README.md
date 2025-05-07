@@ -41,6 +41,8 @@ GitHub · Google Colab · VS Code · RStudio ·Canva · Figma (basic)  <br />
 - 🌐 Building out my Trump Tariff Tracker and other Streamlit projects. [Check it out!](https://github.com/cath2705/Paris-Python-Portfolio/tree/main/StreamlitFinal)
 - 📚 Expanding my portfolio of educational and ethical tech tools
 
+Check out [my paris-python-portfolio repository](https://github.com/cath2705/Paris-Python-Portfolio/tree/main) — it features my main GitHub projects and highlights my core skill sets.
+
 ### 📌 Fun Fact  <br />
 I've broken the same leg twice 🫣
  <br />
