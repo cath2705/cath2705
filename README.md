@@ -38,7 +38,7 @@ GitHub · Google Colab · VS Code · RStudio ·Canva · Figma (basic)  <br />
 
 ### 🚧 Current Projects
 - 🔍 Learning Python through real-world, policy-driven data apps
-- 🌐 Building out my Trump Tariff Tracker and other Streamlit projects
+- 🌐 Building out my Trump Tariff Tracker and other Streamlit projects. [Check it out!](https://github.com/cath2705/Paris-Python-Portfolio/tree/main/StreamlitFinal)
 - 📚 Expanding my portfolio of educational and ethical tech tools
 
 ### 📌 Fun Fact  <br />
