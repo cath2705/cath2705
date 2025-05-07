@@ -1,35 +1,52 @@
-## Hi there 👋
-# About Me 👋 
+## Hi, I’m Catherine Paris 👋 
 
 <code><img height="200px" src="assets/istockphoto-1086997658-612x612.jpg"></code>
 
+🎓 Student at the University of Notre Dame <br />
+🎯 Expected Graduation: May 2027 <br />
+🌍 Based in London | Originally from Summit, NJ <br />
+ Major: Global Affairs <br />
+ Minors in: 
+- Computing and Digital Technologies <br />
+- Foundations of Business <br />
+- Gender Studies
 
-Hello! 😁 My Name is Catherine Paris. 
+### 💻 About Me  <br />
 
-I'm a Global Affairs major at the University of Notre Dame. I have minors in 1) Computing and Digital Technology Studies, 2) Foundations of Business, 3) Gender Studies. I am set to graduate in May 2027. I am originally from Summit, New Jersey but actually live abroad in London now! In my free time, I enjoy scrapbooking, watching ice hockey (go rangers!), and spending time with my friends :)
+I'm passionate about **combining technology, global policy, and gender equity** to build tools that make complex topics accessible. My academic and technical work often explores the **ethical dimensions of AI, international security, and digital policy**—especially through hands-on, interactive projects.  <br />
 
-- Current Projects:🌱 I’m currently learning Python through platforms like Google Colab and VS Code.
-- Skills 💻: I'm comfortable working on data visualization projects and using libraries like Seaborn to create clear, informative visual representations of data.
+I enjoy turning abstract concepts into intuitive digital experiences using tools like **Python, Streamlit, and pandas.** I also love storytelling through design—whether it's visualizing economic policy or building educational apps for non-technical users.
+
+### 🛠 Skills & Tools <br />
+**Languages & Libraries:**  <br />
+Python · Pandas · Streamlit · Plotly · Seaborn · spaCy · HTML/CSS (basic)
+<br />
+<br />
+**Core Strengths:** <br />
+Data Visualization · Interactive Web Apps · UX/UI Design · Policy Analysis · Technical Writing · Educational Tool Development
+ <br />
+<br />
+**Tools:**
+GitHub · Google Colab · VS Code · RStudio ·Canva · Figma (basic)  <br />
+ <br />
+
 <code><img height="40" src="assets/RStudio.png"></code>
 <code><img height="40" src="assets/pandas.png"></code>
 <code><img height="40" src="assets/visual-studio-code.png"></code>
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
-- Goals 😄:  I'm looking forward to better understanding GitHub and all its features! 
-- Fun fact: I've broken the same leg twice 🫣
-- Contact Links: https://www.linkedin.com/in/catherine-paris/ 
+ <br />
+ <br />
 
+### 🚧 Current Projects
+- 🔍 Learning Python through real-world, policy-driven data apps
+- 🌐 Building out my Trump Tariff Tracker and other Streamlit projects
+- 📚 Expanding my portfolio of educational and ethical tech tools
+<br />
 
-<!--
-**cath2705/cath2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Fun Fact  <br />
+I've broken the same leg twice 🫣
+ <br />
 
-Here are some ideas to get you started:
+### Contact Links:  <br />
+[linkedin](https://www.linkedin.com/in/catherine-paris/ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
