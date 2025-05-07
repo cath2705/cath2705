@@ -35,18 +35,15 @@ GitHub · Google Colab · VS Code · RStudio ·Canva · Figma (basic)  <br />
 <code><img height="40" src="assets/visual-studio-code.png"></code>
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
  <br />
- <br />
 
 ### 🚧 Current Projects
 - 🔍 Learning Python through real-world, policy-driven data apps
 - 🌐 Building out my Trump Tariff Tracker and other Streamlit projects
 - 📚 Expanding my portfolio of educational and ethical tech tools
-<br />
 
 ### 📌 Fun Fact  <br />
 I've broken the same leg twice 🫣
  <br />
 
-### Contact Links:  <br />
-[linkedin](https://www.linkedin.com/in/catherine-paris/ )
+### Contact Links: [linkedin](https://www.linkedin.com/in/catherine-paris/ )
 
